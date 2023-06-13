@@ -1,0 +1,10 @@
+* utilities.binary-dump
+
+Functions for printing binary data (subset of the od(1) UNIX tool)
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/scymtym/utilities.binary-dump.git   |
+| commit  | f6c637b  |
+| systems | utilities.binary-dump |
+|---------+-------------------------------------------|
+
