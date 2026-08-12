@@ -8,4 +8,4 @@ Functions for printing binary data (subset of the od(1) UNIX tool)
 | systems | utilities.binary-dump |
 |---------+-------------------------------------------|
 
- 
+  
